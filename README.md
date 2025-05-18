@@ -43,9 +43,9 @@ npm run dev
 
 Feedback and contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
 
-## License
+## Images
+![Homepage](images/Screenshot 2025-05-17 at 21.23.53.png)
 
-This project is licensed under the MIT License.
 
 ## Contact
 
