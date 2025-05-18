@@ -45,8 +45,27 @@ Feedback and contributions are welcome! Please open an issue or submit a pull re
 
 ## Images
 ![Homepage](images/Screenshot%202025-05-17%20at%2021.23.53.png)
-Homepage
+Landing
 
+
+![User Homepage](images/Screenshot%202025-05-17%20at%2021.24.18.png)
+User Homepage
+
+
+![Page listing available hosts](images/Screenshot%202025-05-17%20at%2021.25.01.png)
+Page listing available hosts
+
+
+![Chat system from the user's side](images/Screenshot%202025-05-17%20at%2021.25.10.png)
+Chat system from the user's side
+
+
+![Host Homepage](images/Screenshot%202025-05-17%20at%2021.26.04.png)
+Host Homepage
+
+
+![Chat system from the host's side](images/Screenshot%202025-05-17%20at%2021.26.45.png)
+Chat system from the host's side
 
 ## Contact
 
