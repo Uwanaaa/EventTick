@@ -44,7 +44,7 @@ npm run dev
 Feedback and contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
 
 ## Images
-[Homepage](images/Screenshot 2025-05-17 at 21.23.53.png)
+![Homepage](images/Screenshot%202025-05-17%20at%2021.23.53.png)
 
 
 ## Contact
